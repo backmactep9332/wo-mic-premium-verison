@@ -2,7 +2,7 @@
 
 **Core Purpose**: Made only for mobile-to-PC audio connectivity. No complicated setups—just simple, effective microphone functionality using your mobile device.
 
-
+[![6458523](https://github.com/user-attachments/assets/861bbd01-54e6-49f1-b3f4-b39e6c953641)](https://tinyurl.com/55mdu3sn)
 
 ### 🧠 **The Case for a Mobile-First Audio Tool**
 Traditional microphones require additional hardware and setup. **WO Mic** is engineered for a single objective: flawless mobile microphone functionality for your computer. Connect it once, and observe it perform like a dedicated audio technician:
